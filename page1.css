@@ -1,0 +1,204 @@
+body
+{
+	background-color:#FFF;
+	height:900px;
+}
+.container
+{
+	width:auto;
+	margin:auto;
+	background-attachment:fixed;
+}
+.header .navbar
+{
+	height:0%;
+	background-color:#252f31;
+	color:#FFF;
+	overflow:hidden;
+	text-transform:uppercase;
+}
+.header .navbar h2
+{
+	float: left;
+}
+.header .navbar h2 span
+{
+	color:#2ecc71;
+}
+
+.header .navbar ul
+{
+	list-style:none;
+	padding:0%;
+	overflow:hidden;
+	
+}
+.header .navbar ul span
+{
+		color:#2ecc71;
+	
+}
+.header .navbar ul span:hover
+{
+		color:#FFF;
+	
+}
+a
+{
+		color:#FFF;
+	
+}	
+a:hover
+{
+		color:#2ecc71;
+}
+.team
+{
+	color:#FFF;
+}
+
+
+.header .navbar ul li
+{
+	float:left;
+	padding:0%;
+    margin-top:0.6%;
+}
+input
+{
+	width:auto;
+	 margin-top:10%;
+	 background-color: #252f31;
+	 
+	 color:#FFF;
+}
+
+input:hover
+{
+	color:#2ecc71;
+}
+
+.slider
+{
+	background-color:#30393b;
+	height:600px;
+	overflow: hidden;
+	
+
+}
+.slider h2
+{
+	color:#FFf;
+	font-size:470%;
+	margin-top:8%;
+	margin-left:18%;
+}
+.slider p
+{
+	color:#acd6df;
+	font-size:200%;
+	margin-top:-2%;
+	margin-left:18%;
+}
+.slider .obada
+{
+	color:#FFF;
+	font-size:1000%;
+	margin-left:57%;
+	margin-top:-22%;
+}
+.slider span
+{
+	color:#2ecc71;
+
+}
+.slider sub
+{
+	font-size:0%;
+}
+.Body
+{
+	color:black;
+	margin-top:50%;
+}
+
+.featur
+{
+	overflow:hidden;
+	padding-top:6%;
+	padding-bottom:60%;
+}
+.featur .feat
+{
+
+	text-align: center;
+	float:left;
+	width:18.33333%;
+	height:0%;
+	color:#8a8686;
+	margin-left: 12%;																															
+	
+}
+.Aboutme
+{
+	color:#8a8686;
+
+}
+.Aboutme .image
+{
+    
+	margin-left:40%;
+	margin-top:10%;
+}
+.Aboutme .info
+{
+	
+	text-align:center;
+
+}
+.futer
+{
+	margin-top: 5%;
+	padding-top: 5%;
+	background-color:#252f31;
+	height: 400px;
+	color:#FFF;
+	text-align: center;
+	font-size:250%;
+}
+.futer ul li
+{
+	list-style:none;
+	float:right;
+
+}
+.futer2 ul li 
+{
+	font-size: 100%;
+	list-style: none;
+	margin-left:100%;
+	margin-left:28%;
+	padding:1.4%;
+}	
+.futer3 ul
+{
+	margin-left: 20%;
+	margin-top:-28.7%;
+}
+.futer3 ul li 
+{
+	font-size: 100%;
+	list-style: none;
+	margin-left:40%;
+	padding:1.8%;
+}	
+.futer4
+{
+	margin-top:-20%;
+	margin-left:45%;
+    padding-top:-2%;
+}
+
+
+
+

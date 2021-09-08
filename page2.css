@@ -1,0 +1,117 @@
+body
+{
+	height:1200px;
+	}
+
+.container
+{
+	width:1170px;
+	margin:auto;
+}
+.header .navbar
+{
+	background-color:#252f31;
+	height:60px;
+
+}
+.header .navbar p
+{
+	margin-top:0%;
+	padding-top:1%;
+	text-align:center;
+	font-size:152%;
+	color:#2ecc71;
+
+}
+.header .navbar input[type = "text"]
+{
+	float:right;
+	margin-top:-4%;
+	margin-right:-4%;
+	cursor:text;
+}
+.Body h1
+{
+	text-align: center;
+}
+.featur
+{
+	overflow:hidden;
+	padding-top:3%;
+	padding-bottom:10%;
+}
+input
+{
+	color:#014dfa;
+	background-color:#FFF;
+	width:200px;
+	
+	
+	
+}
+input:hover
+{
+	
+	cursor:pointer;
+}
+
+.featur .feat
+{
+
+	background-color:#FFF;
+	text-align: center;
+	float:left;	
+	width:300px;
+	height:200px;
+	color:black;
+	margin-left: 15%;	
+	margin-top:5%;	
+	line-height:25px;	
+	font-size:19px;		
+	border:	15px;																				
+	
+}
+.futer
+{	
+	
+	height: 600px;
+	background-color:#DDD;
+}
+.futer .futer2 h2
+{
+	padding-top:6%;
+	margin-left:15%;
+}
+
+
+.futer ul li
+{
+	list-style:none;
+	padding-top:3%;
+	margin-left:30%;
+	overflow:hidden;
+	
+
+}
+.futer2 ul li 
+{
+
+}	
+.futer3 ul
+{
+	margin-left: 20%;
+	margin-top:-28%;
+}
+.futer3 ul li 
+{
+	font-size: 15px;
+	list-style: none;
+	margin-left:40%;
+	padding:2%;
+}	
+.futer4
+{
+	margin-top:-26%;
+	margin-left:35%;
+}
+
